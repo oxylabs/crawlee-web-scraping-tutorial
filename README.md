@@ -1,10 +1,10 @@
 # Crawlee Tutorial: Easy Web Scraping and Browser Automation
 
-Web scraping and browser automation have emerged as essential tools for businesses looking to stay competitive in the digital marketplace. This easy tutorial covers everything you need to get started with Crawlee~ a tool for web scraping and browser automation.
+Web scraping and browser automation have emerged as essential tools for businesses looking to stay competitive in the digital marketplace. This easy tutorial covers everything you need to get started with Crawlee a tool for web scraping and browser automation.
 
 ## What is Crawlee?
 
-Crawlee is a Node.JS package that offers a straightforward and adaptable interface for web scraping and crawling. Users can retrieve web pages, apply CSS selectors to extract data from them, and navigate the DOM tree to follow links and scrape several sites.
+Crawlee is a Node.JS package that offers a straightforward and adaptable interface for web scraping and browser automation. Users can retrieve web pages, apply CSS selectors to extract data from them, and navigate the DOM tree to follow links and scrape several sites.
 
 Crawlee is a versatile tool that provides a uniform interface for web crawling via HTTP and headless browser approaches. It has an integrated persistent queue for handling URLs to crawl in either breadth-first or depth-first order.
 
@@ -68,7 +68,7 @@ The `start` command will start the default crawler of the project. This crawler 
 
 ![npm start command](images/npm-start-command.png)
 
-Congratulations! 👍 You have successfully installed Crawlee and run one of the crawlers with it.
+Congratulations! You have successfully installed Crawlee and run one of the crawlers with it.
 
 ### Crawlee working
 
