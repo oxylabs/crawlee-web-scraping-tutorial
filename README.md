@@ -44,13 +44,13 @@ npx crawlee create my-crawler
 
 The `npx` CLI tool runs the `crawlee` package locally without installing it globally on your machine. Running the above command will show you a prompt message to choose a template, as shown in the following snippet:
 
-![npx create Crawlee project](images\npx-crawlee-create.png)
+![npx create Crawlee project](images/npx-crawlee-create.png)
 
 Since we are doing Node.JS development, we can select “Getting Started Example (JavaScript)”. This option will install all required dependencies and create a new directory named “my-crawler” in your current working directory. 
 
 It will also add a “package.json” to this folder. Additionally, it will include example source code that you may use immediately. The image below shows the completed installation message:
 
-![npx create complete](images\npx create complete.png)
+![npx create complete](images/npx create complete.png)
 
 Remember, the Crawlee project was created inside the “my-crawler” folder. You first need to change your current directory to this folder.
 
