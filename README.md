@@ -50,7 +50,7 @@ Since we are doing Node.JS development, we can select “Getting Started Example
 
 It will also add a “package.json” to this folder. Additionally, it will include example source code that you may use immediately. The image below shows the completed installation message:
 
-![npx create complete](images/npx create complete.png)
+![npx create complete](images/npx-create-complete.png)
 
 Remember, the Crawlee project was created inside the “my-crawler” folder. You first need to change your current directory to this folder.
 
@@ -66,7 +66,7 @@ npm start
 
 The `start` command will start the default crawler of the project. This crawler crawls the Crawlee website and outputs the titles of all the links on the website. 
 
-![npm start command](images\npm start command.png)
+![npm start command](images/npm-start-command.png)
 
 Congratulations! 👍 You have successfully installed Crawlee and run one of the crawlers with it.
 
