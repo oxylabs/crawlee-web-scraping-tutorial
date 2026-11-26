@@ -1,6 +1,6 @@
 # Crawlee Tutorial: Easy Web Scraping and Browser Automation
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=crawlee-web-scraping-tutorial-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=crawlee-web-scraping-tutorial&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -208,11 +208,11 @@ Crawlee includes built-in support for managing proxies. It lets you quickly choo
 
 You can construct a new instance of a crawler and give in a `ProxyConfiguration` object with the list of proxies. You can optionally specify the rotation technique. For example, you can set proxies to rotate every request or after a specified number of requests.
 
-Moreover, you can also use a third-party solution such as [Oxylabs' Web Unblocker](https://oxylabs.io/products/web-unblocker) to ensure that your Crawlee web scraping is not blocked or restricted.
+Moreover, you can also use a third-party solution such as [Oxylabs' Web Unblocker](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=crawlee-web-scraping-tutorial&groupid=877) to ensure that your Crawlee web scraping is not blocked or restricted.
 
 To integrate the proxy endpoints with Crawlee, you can use the `ProxyConfiguration` class. You can create an instance of this class using the constructor and provide the necessary options. You can visit the [ProxyConfigurationOptions](https://crawlee.dev/api/core/interface/ProxyConfigurationOptions) class page to learn about proxy configuration options.
 
-The following code demonstrates setting a proxy list Crawlee. You can get a list of residential proxy endpoints by registering an account at [Oxylabs' Web Unblocker](https://oxylabs.io/products/web-unblocker) page.
+The following code demonstrates setting a proxy list Crawlee. You can get a list of residential proxy endpoints by registering an account at [Oxylabs' Web Unblocker](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=crawlee-web-scraping-tutorial&groupid=877) page.
 
 ```javascript
 //crawlee_scraper_proxies.js
